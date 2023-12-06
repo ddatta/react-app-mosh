@@ -1,6 +1,9 @@
 # Getting Started with Vite+React
 
 This project was bootstrapped with Vite.
+Refer to https://codewithmosh.com/ for resources
+https://www.youtube.com/watch?v=SqcY0GlETPk&pp=ygUUY29kZSB3aXRoIG1vc2ggcmVhY3Q%3D
+
 
 ## Available Scripts
 
